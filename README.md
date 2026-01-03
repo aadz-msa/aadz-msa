@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=500&lines=GAME+DEVELOPER" />
 </p>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmFqOGk0NjRqMXFlemlmc3I4bmQzdzc2aXllMnRidHA4N2o1aHlyYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/szaTML0LZFAQa3do7Y/giphy.gif" width="320">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI2ZmtwcmU3N2RpajdkMmI2dmJ1ODhzcjZuYjZkMGpka2cxbjNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFrcMBjxzcp4Ag6Owv/giphy.gif" width="320">
 </p>
 
 

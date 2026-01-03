@@ -42,20 +42,11 @@
 <p>
   <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
 </p>
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="260">
-</p>
-
 
 ## 💻 Programming Languages
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhkZHc1Ym5ob3l4ZThvdzdlM3hxMTZ1bjU3NTc2b2p4OWQxYWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQrInL3NG5E9lYPbBG/giphy.gif" width="260">
-</p>
-
 <p>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
 </p>
-
 <p>
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
 </p>
@@ -64,9 +55,6 @@
 </p>
 
 <!-- RUNNING CHARACTER -->
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="300">
-</p>
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=FFFFFF&width=900&lines=2D+PLATFORMER+-+SIDE+SCROLLING+WITH+ENEMIES+AND+TRAPS" />
 </p>
@@ -95,9 +83,27 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
-
+<p align="center">
+  <a href="https://github.com/aadz-msa">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://instagram.com/amaxxingggggg">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/aadhithya-mahesh06">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://x.com/aadzmsa">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://twitch.tv/aadzmsa">
+    <img src="https://skillicons.dev/icons?i=steam" />
+  </a>
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
+</p
 <!-- FOOTER -->
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2eGRkN3JvdXl6OWx5bWRpeDVzN21qNzE5bWwyb2Z0YnY0cmlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="80%">
 </p>

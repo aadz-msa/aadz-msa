@@ -2,6 +2,10 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ4NHp6am5taG85bjlxd3JhY3k5bWlxbXdleG0ydnRkNnVlMTBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%">
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 > SYSTEM BOOTING...
 > LOADING PLAYER PROFILE
 > READY
@@ -19,7 +23,10 @@
 > PLAYER: AADHITHYA
 > CLASS: GAME_DEVELOPER
 > STATUS: BUILDING_GAMES
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=7DF9FF&center=true&vCenter=true&width=600&lines=HI%2C+I'M+AADHITHYA" />
 </p>
@@ -33,7 +40,10 @@
 </p>
 
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 <!-- PIXEL SEPARATOR -->
 <p align="center">
@@ -45,7 +55,10 @@
   <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="260">
@@ -62,7 +75,10 @@
   <strong> GDScript</strong>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 <!-- RUNNING CHARACTER -->
 <p align="center">
@@ -82,7 +98,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=FFFFFF&width=900&lines=HORROR+MAZE+-+AI+ENEMY+AND+SOUND+BASED+TENSION" />
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -93,7 +112,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&layout=compact&theme=tokyonight&hide_border=true">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
 
 <!-- FOOTER -->
 

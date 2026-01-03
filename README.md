@@ -39,10 +39,7 @@
 
 ## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,python,java" />
-</p>
-<p>
-  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,python,java,html,css,react,git" />
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />

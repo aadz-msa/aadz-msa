@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ4NHp6am5taG85bjlxd3JhY3k5bWlxbXdleG0ydnRkNnVlMTBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%">
 </p>
+> SYSTEM BOOTING...
+> LOADING PLAYER PROFILE
+> READY
 
 
 
@@ -13,7 +16,9 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI2ZmtwcmU3N2RpajdkMmI2dmJ1ODhzcjZuYjZkMGpka2cxbjNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFrcMBjxzcp4Ag6Owv/giphy.gif" width="320">
 </p>
 
-
+> PLAYER: AADHITHYA
+> CLASS: GAME_DEVELOPER
+> STATUS: BUILDING_GAMES
 ---
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=7DF9FF&center=true&vCenter=true&width=600&lines=HI%2C+I'M+AADHITHYA" />

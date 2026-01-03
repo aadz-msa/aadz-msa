@@ -64,7 +64,8 @@
 </p>
 
 ## GitHub Stats
-![](https://github-profile-trophy.vercel.app/?username=aadz-msa&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Aadz-msa&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadz-msa&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
@@ -77,6 +78,7 @@
 </p>
 
 ## Socially
+```Connection Circuit```
 <p align="center">
   <a href="https://github.com/aadz-msa">
     <img src="https://skillicons.dev/icons?i=github" />
@@ -104,9 +106,9 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
-<p align="center"
-*Always building. Always learning. Always shipping games.*
-  </p>
+
+```*Always building. Always learning. Always shipping games.*```
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>

@@ -42,17 +42,13 @@
 <p>
   <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
 </p>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
-</p>
-
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="260">
 </p>
 
 
 ## 💻 Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
 </p>
@@ -69,8 +65,6 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="300">
 </p>
-
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=FFFFFF&width=900&lines=2D+PLATFORMER+-+SIDE+SCROLLING+WITH+ENEMIES+AND+TRAPS" />
 </p>

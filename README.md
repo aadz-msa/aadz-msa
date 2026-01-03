@@ -63,7 +63,7 @@
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="300">
 </p>
->
+
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=FFFFFF&width=900&lines=2D+PLATFORMER+-+SIDE+SCROLLING+WITH+ENEMIES+AND+TRAPS" />
@@ -91,9 +91,6 @@
 ---
 
 <!-- FOOTER -->
-<p align="center">
-  <img src="https://i.imgur.com/WXz5RZ7.gif" width="100%">
-</p>
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2eGRkN3JvdXl6OWx5bWRpeDVzN21qNzE5bWwyb2Z0YnY0cmlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="80%">

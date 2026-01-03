@@ -8,7 +8,6 @@
 
 ```text
 > LOADING PLAYER PROFILE
-> READY
 ```
 
 
@@ -20,12 +19,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI2ZmtwcmU3N2RpajdkMmI2dmJ1ODhzcjZuYjZkMGpka2cxbjNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFrcMBjxzcp4Ag6Owv/giphy.gif" width="320">
 </p>
-
-```text
-> PLAYER: AADHITHYA
-> CLASS: GAME_DEVELOPER
-> STATUS: BUILDING_GAMES
-```
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -51,8 +44,9 @@
 
 <!-- PIXEL SEPARATOR -->
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="500">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
 </p>
+
 
 ## 🎮 Game Development
 <p>
@@ -60,9 +54,8 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
 </p>
-
 
 <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmgzNzF1b2xmdHpkcnpudHVob3gwY2ZtMWUyNHFoNGtoYnNtanVqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NQiTimPeHl9erq16D7/giphy.gif" width="260">
@@ -71,7 +64,7 @@
 
 ## 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,javascript" />
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
 </p>
 
 <p>
@@ -80,8 +73,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
 </p>
+
 
 
 <!-- RUNNING CHARACTER -->
@@ -103,8 +97,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
 </p>
+
 
 
 ## 📊 GitHub Stats
@@ -117,7 +112,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
 </p>
 
 

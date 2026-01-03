@@ -48,6 +48,9 @@
 
 
 ## 💻 Programming Languages
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjhkZHc1Ym5ob3l4ZThvdzdlM3hxMTZ1bjU3NTc2b2p4OWQxYWFucyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQrInL3NG5E9lYPbBG/giphy.gif" width="260">
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
@@ -55,7 +58,6 @@
 
 <p>
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
-  <strong> GDScript</strong>
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />

@@ -3,15 +3,15 @@
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ4NHp6am5taG85bjlxd3JhY3k5bWlxbXdleG0ydnRkNnVlMTBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
 ```text
 > LOADING PLAYER PROFILE
 ```
-
-
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=500&lines=GAME+DEVELOPER" />
@@ -19,9 +19,8 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI2ZmtwcmU3N2RpajdkMmI2dmJ1ODhzcjZuYjZkMGpka2cxbjNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFrcMBjxzcp4Ag6Owv/giphy.gif" width="320">
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
 <p align="center">
@@ -35,18 +34,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=E0E0E0&center=true&vCenter=true&width=800&lines=I+BUILD+2D+AND+3D+GAMES.;I+LOVE+GAMES+<3.;I+TURN+IDEAS+INTO+PLAYABLE+EXPERIENCES." />
 </p>
-
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
-
-
-<!-- PIXEL SEPARATOR -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
-</p>
-
 
 ## 🎮 Game Development
 <p>
@@ -71,12 +61,9 @@
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
   <strong> GDScript</strong>
 </p>
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
-
-
 
 <!-- RUNNING CHARACTER -->
 <p align="center">
@@ -97,10 +84,8 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
-
-
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -110,9 +95,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&layout=compact&theme=tokyonight&hide_border=true">
 </p>
-
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="95%" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
 
@@ -120,6 +104,9 @@
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2eGRkN3JvdXl6OWx5bWRpeDVzN21qNzE5bWwyb2Z0YnY0cmlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="80%">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
 

@@ -1,11 +1,15 @@
 <!-- PIXEL BANNER -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2eGRkN3JvdXl6OWx5bWRpeDVzN21qNzE5bWwyb2Z0YnY0cmlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="80%">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ4NHp6am5taG85bjlxd3JhY3k5bWlxbXdleG0ydnRkNnVlMTBoYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gH1jGsCnQBiFHWMFzh/giphy.gif" width="100%">
 </p>
 
 
 
-<h1 align="center">🎮 Game Developer</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=7DF9FF&center=true&vCenter=true&width=500&lines=GAME+DEVELOPER" />
+</p>
+
 
 ---
 
@@ -73,6 +77,10 @@ AI-driven enemy + sound-based tension
 <!-- FOOTER -->
 <p align="center">
   <img src="https://i.imgur.com/WXz5RZ7.gif" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2E2eGRkN3JvdXl6OWx5bWRpeDVzN21qNzE5bWwyb2Z0YnY0cmlsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l8G8sdTRURRBANPpPR/giphy.gif" width="80%">
 </p>
 
 

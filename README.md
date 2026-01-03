@@ -6,9 +6,10 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-> SYSTEM BOOTING...
+```text
 > LOADING PLAYER PROFILE
 > READY
+```
 
 
 
@@ -20,9 +21,12 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXI2ZmtwcmU3N2RpajdkMmI2dmJ1ODhzcjZuYjZkMGpka2cxbjNraSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tFrcMBjxzcp4Ag6Owv/giphy.gif" width="320">
 </p>
 
+```text
 > PLAYER: AADHITHYA
 > CLASS: GAME_DEVELOPER
 > STATUS: BUILDING_GAMES
+```
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
@@ -36,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=E0E0E0&center=true&vCenter=true&width=800&lines=I+BUILD+2D+AND+3D+GAMES.;I+FOCUS+ON+GAMEPLAY+MECHANICS.;I+TURN+IDEAS+INTO+PLAYABLE+EXPERIENCES." />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=E0E0E0&center=true&vCenter=true&width=800&lines=I+BUILD+2D+AND+3D+GAMES.;I+LOVE+GAMES+<3.;I+TURN+IDEAS+INTO+PLAYABLE+EXPERIENCES." />
 </p>
 
 

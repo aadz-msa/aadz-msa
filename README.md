@@ -1,55 +1,77 @@
-![Game Developer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=Game%20Developer&fontColor=ffffff&fontSize=40)
+<!-- PIXEL BANNER -->
+<p align="center">
+  <img src="https://i.imgur.com/6RMhx.gif" width="100%">
+</p>
 
-## 👋 Hi, I'm Aadhithya  
-🎮 Game Developer | Unity | Godot | C#
-
-I love building **2D & 3D games**, experimenting with gameplay mechanics, and turning ideas into playable experiences.
+<h1 align="center">🎮 Game Developer</h1>
 
 ---
 
-## 🎮 Game Development Skills
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
-![Godot](https://img.shields.io/badge/Godot-478cbf?style=for-the-badge&logo=godot-engine)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender)
+### 👋 Hi, I'm Aadhithya  
+🕹️ Unity • Godot • C#
+
+I build **2D & 3D games**,  
+focus on **gameplay mechanics**,  
+and turn ideas into **playable experiences**.
+
+---
+
+<!-- PIXEL SEPARATOR -->
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="500">
+</p>
+
+## 🎮 Game Development
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
+</p>
 
 ---
 
 ## 💻 Programming Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,cpp,python,javascript" />
+</p>
 
-## 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
+<p>
+  <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
+  <strong> GDScript</strong>
+</p>
 
 ---
 
-## 🎮 Game Projects
-- 🕹️ **2D Platformer** – Side-scrolling platformer with obstacles & enemies  
-- 🚀 **Drone Combat Game** – Unity 3D physics-based combat prototype  
-- 👻 **Horror Maze** – AI enemy + sound-based gameplay
+<!-- RUNNING CHARACTER -->
+<p align="center">
+  <img src="https://i.imgur.com/QZ6G6xk.gif" width="120">
+</p>
 
-*(More projects coming soon…)*
+## 🕹️ Game Projects
+🎯 **2D Platformer**  
+Side-scrolling platformer with enemies & traps  
+
+🚀 **Drone Combat Game**  
+Unity 3D physics-based aerial combat  
+
+👻 **Horror Maze**  
+AI-driven enemy + sound-based tension  
 
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadz-msa&show_icons=true&theme=tokyonight&hide_border=true">
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black)](#)
-[![Itch.io](https://img.shields.io/badge/Itch.io-fa5c5c?logo=itch.io)](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
 ---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://i.imgur.com/WXz5RZ7.gif" width="100%">
+</p>
+
 
 🔥 *Always building. Always learning. Always shipping games.*

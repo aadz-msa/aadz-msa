@@ -6,9 +6,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
-```text
-> LOADING PLAYER PROFILE
-```
+``` > LOADING PLAYER PROFILE ```
+``` > READY```
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
@@ -38,14 +37,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
-## Game Development
+## Skills
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender" />
-</p>
-
-## Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,cpp,python,java" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,python,java" />
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/godotengine/godot/master/icon.svg" width="45">
@@ -55,6 +49,7 @@
 </p>
 
 <!-- RUNNING CHARACTER -->
+## DID SOMETHING
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&pause=99999&color=FFFFFF&width=900&lines=2D+PLATFORMER+-+SIDE+SCROLLING+WITH+ENEMIES+AND+TRAPS" />
 </p>
@@ -71,11 +66,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
 
-## 📊 GitHub Stats
+## GitHub Stats
+![](https://github-profile-trophy.vercel.app/?username=aadz-msa&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadz-msa&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
-
+<a href="http://www.github.com/michal-nithesh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=michal-nithesh&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&layout=compact&theme=tokyonight&hide_border=true">
 </p>
@@ -113,6 +109,9 @@
 </p>
 
 *Always building. Always learning. Always shipping games.*
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
+</p>
 <p align="center">
   <img src="https://media.giphy.com/media/EtmMtOfScIA4jIcEsp/giphy.gif" width="80%">
 </p>

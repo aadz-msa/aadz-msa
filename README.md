@@ -65,11 +65,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=7DF9FF&center=true&vCenter=true&width=600&lines=GITHUB+STATS" />
 </p>
 
-<p align="center">
   
-![](https://github-readme-stats.vercel.app/api?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)  
+  ![](https://github-readme-stats.vercel.app/api?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)  
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadz-msa&show_icons=true&theme=tokyonight&hide_border=true">

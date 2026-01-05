@@ -17,9 +17,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />
 </p>
     <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=99999&color=7DF9FF&center=true&vCenter=true&width=600&lines=ABOUT+ME" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=99999&color=C77DFF&center=true&vCenter=true&width=600&lines=ABOUT+ME" />
 </p>
-      <br><br>
       <p align="center">
       <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=7DF9FF&center=true&vCenter=true&width=500&lines=HI%2C+I'M+AADHITHYA.+NICE+TO+MEET+YA" />
       <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=C77DFF&center=true&vCenter=true&width=500&lines=UNITY+%7C+GODOT+%7C+C%23" />

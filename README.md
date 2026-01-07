@@ -65,7 +65,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aadz-msa&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
-<a href="http://www.github.com/michal-nithesh"><img src="https://github-readme-activity-graph.vercel.app/graph?username=michal-nithesh&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/aadz-msa"><img src="https://github-readme-activity-graph.vercel.app/graph?username=aadz-msa&bg_color=000000&color=a855f7&line=6366f1&point=a855f7&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&layout=compact&theme=tokyonight&hide_border=true">
 </p>

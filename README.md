@@ -71,7 +71,9 @@
   ![](https://github-readme-stats.vercel.app/api?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)  
 ![](https://nirzak-streak-stats.vercel.app/?user=aadz-msa&theme=rose_pine&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-profile-trophy.vercel.app/?username=Aadz-msa&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
+
+![Snake animation](https://github.com/aadz-msa/aadz-msa/blob/output/github-contribution-grid-snake.svg)
+
 </p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="95%" />

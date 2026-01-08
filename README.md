@@ -72,7 +72,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=aadz-msa&theme=rose_pine&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aadz-msa&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Snake animation](https://raw.githubusercontent.com/aadz-msa/aadz-msa/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aadz-msa/aadz-msa/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aadz-msa/aadz-msa/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/aadz-msa/aadz-msa/output/github-contribution-grid-snake.svg">
+</picture>
+
 
 
 </p>

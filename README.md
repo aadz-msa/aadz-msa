@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=99999&color=7DF9FF&center=true&vCenter=true&width=600&lines=WANT+TO+BE+GOOD+AT" />
 </p>
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,python,java,html,css,react,git,threejs,c,lua,unreal,rust,ai,ps,visualstudio,robloxstudio,figma,vite,gamemakerstudio" />
+  <img src="https://skillicons.dev/icons?i=unity,godot,blender,cs,cpp,java,git,threejs,c,lua,unreal,ai,ps,visualstudio,robloxstudio,figma,gamemakerstudio" />
 </p>
 
 
